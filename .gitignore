@@ -26,3 +26,15 @@ wheels/
 # IDE
 .vscode/
 .idea/
+
+# custom gpt files
+*.pyc
+*.pyo
+*.pyd
+*.dylib
+*.dll
+*.pt
+input.txt
+*.log
+generated_english_text.txt
+nanoGPT_old/

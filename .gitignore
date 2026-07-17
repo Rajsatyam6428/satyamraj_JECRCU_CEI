@@ -33,8 +33,5 @@ wheels/
 *.pyd
 *.dylib
 *.dll
-*.pt
-input.txt
 *.log
-generated_english_text.txt
 nanoGPT_old/
